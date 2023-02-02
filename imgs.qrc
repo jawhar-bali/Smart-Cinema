@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>imgs/theatre.jpg</file>
+        <file>imgs/curtains-small.png</file>
+        <file>imgs/deadpool.png</file>
+        <file>imgs/popcorn-small.png</file>
+        <file>imgs/mother.qrc</file>
+        <file>imgs/TemplateTicket.PNG</file>
+    </qresource>
+</RCC>
